@@ -1,6 +1,7 @@
 # Yi-200K-autogen-local-llm
 
-# Install dependencies then run this code:
+# Install dependencies 
+# Modify + run this code with any name + api key + the connector YI endpoint provided:
 
 ```python
 import os
